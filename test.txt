@@ -1,7 +1,7 @@
 test
-<<<<<<< HEAD
+
 
 toto jsem vytvořil lokálně
-=======
 toto jsem vytvořil remote
->>>>>>> 6e18de6df8181899d1181f1909233fbec8f4c987
+
+toto jsem vytvořil teď
